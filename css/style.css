@@ -34,10 +34,11 @@ h2{
  	text-decoration: none;
  }
 
- .header{
+ .header a{
  	font-size: 14px;
 	line-height: 30px;
 	font-weight: bold;
+	text-decoration: none;
  }
 
  .busket{

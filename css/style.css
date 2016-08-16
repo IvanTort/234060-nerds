@@ -2,100 +2,104 @@ body{
 	font-family: "Roboto", sans-serif;
 }
 
-.h1-index{
-	font-size: 36px;
-	line-height: 36px;
+.header-nerds a{
+	font-size: 14px; 
+	line-height: 30px; 
+	text-decoration: none; 
+	text-transform: uppercase; 
 }
 
-p {
-	font-size: 16px;
+.busket-nerds{
+	font-size: 14px; 
+	line-height: 30px; 
+	text-decoration: none; 
+	text-transform: uppercase;
+}
+
+.h1-nerds-index{
+	font-size: 36px; 
+	line-height: 36px; 
+}
+
+.main-nerds-info{
+	font-size: 16px; 
 	line-height: 22px;
 }
 
-.h2-index{
-    font-size: 18px;
-	line-height: 30px;
-}
-
-.main1{
-	font-size: 15px;
-	line-height: 22px;
-}
-
- .main2{
- 	font-size: 12px;
- 	line-height: 18px;
- 	text-decoration: none;
- }
-
- .main01{
- 	font-size: 12px;
- 	line-height: 18px;
- 	text-decoration: none;
- }
-
- .header a{
- 	font-size: 14px;
-	line-height: 30px;
-	font-weight: bold;
-	text-decoration: none;
- }
-
- .busket{
- 	font-size: 14px;
-	line-height: 30px;
-	font-weight: bold;
-	color: black;
-	text-decoration: none;
- }
-
- .main3{
- 	font-size: 36px;
-	line-height: 36px;
- }
-
- .main4{
- 	font-size: 16px;
-	line-height: 22px;
- }
-
- .main04{
- 	font-size: 16px;
-	line-height: 8,56px;
-	font-weight: bold;
- }
-
- .main5{
- 	font-size: 16px;
-	line-height: 22px;
- }
-
- .footer1{
- 	font-size: 16px;
-	line-height: 30px;
-	font-weight: bold;
- }
-
- .footer2{
- 	font-size: 16px;
-	line-height: 20px;
- }
-
- .footer3{
- 	font-size: 12px;
+.button-head{
+	font-size: 12px; 
 	line-height: 18px;
-	text-decoration: none;
- }
+	text-decoration: none; 
+	text-transform: uppercase;
+}
 
- .footer4{
- 	font-size: 36px;
-	line-height: 36px;
- }
+.main-types-index{
+	font-size: 18px; 
+	line-height: 30px;
+	text-transform: uppercase;
+}
 
-  .footer5{
- 	font-size: 16px;
+.main-content-index{
+	font-size: 15px; 
 	line-height: 22px;
- }
+}
+
+.button-for-buy{
+	font-size: 12px; 
+	line-height: 18px;
+	text-decoration: none; 
+	text-transform: uppercase;
+}
+
+.performance-index{
+	font-size: 36px; 
+	line-height: 36px;
+}
+
+.performance-continue-index{
+	font-size: 16px; 
+	line-height: 22px;
+}
+
+.performance-finish-index{
+	font-size: 16px; 
+	line-height: 22px;
+	text-transform: uppercase;
+}
+
+.since{
+	font-size: 16px; 
+	line-height: 8,56px;
+	text-transform: uppercase;
+}
+
+.topic-footer{
+	font-size: 16px; 
+	line-height: 30px;
+	text-transform: uppercase;
+}
+
+.performance-footer{
+	font-size: 16px; 
+	line-height: 20px;
+}
+
+.button-footer{
+	font-size: 12px; 
+	line-height: 18px;
+	text-decoration: none; 
+	text-transform: uppercase;
+}
+
+.friends-footer{
+	font-size: 36px; 
+	line-height: 36px;
+}
+
+.friends-finish-footer{
+	font-size: 16px; 
+	line-height: 22px;
+}
 
 
 
@@ -104,93 +108,63 @@ p {
 
 
 
- h1{
-	font-size: 36px;
+
+
+
+.welcome-header-catalog{
+	font-size: 40px; 
 	line-height: auto;
 }
 
-.head1{
-	text-decoration: none;
-	font-size: 14px;
-	line-height: 30px;
-	
-}
-
-.busket{
-	text-decoration: none;
-	font-size: 14px;
-	line-height: 30px;
-	
-}
-
-h2{
-	font-size: 18px;
-	line-height: 30px;
-}
-
-.main1-catalog{
-	font-size: 16px;
+form{
+	font-size: 16px; 
 	line-height: 20px;
 }
 
-span{
-	font-size: 12px;
-	line-height: 18px;
-}
-
-.main2-catalog a{
-	font-size: 12px;
-	line-height: 18px;
-	text-decoration: none;
-	border-bottom: 1px dashed #000080;
-}
-
-.main3 {
-	font-size: 18px;
-	line-height: 8,56px;
-	text-decoration: none;
-}
-
-.main4-catalog {
-	font-size: 14px;
-	line-height: 18px;
-}
-
-.main5-catalog {
-	font-size: 18px;
-	line-height: 8,56px;
-	text-decoration: none;
-}
-
-.main6-catalog a{
-	font-size: 12px;
-	line-height: 18px;
-	text-decoration: none;
-}
-
-.footer1{
- 	font-size: 16px;
+.criteria{
+	font-size: 18px; 
 	line-height: 30px;
-	font-weight: bold;
- }
+}
 
- .footer2{
- 	font-size: 16px;
-	line-height: 20px;
- }
-
- .footer3{
- 	font-size: 12px;
+.button-show-nerds{
+	font-size: 12px; 
 	line-height: 18px;
+	text-decoration: none; 
+	text-transform: uppercase;
+}
+
+.sort{
+	font-size: 12px; 
+	line-height: 18px;
+}
+
+.sort-criteria{
+	text-decoration: none; 
+    border-bottom: 1px dashed #000080;
+}
+
+.main-content-nerds{
+	font-size: 18px; 
+	line-height: 8,56px;
+	text-transform: uppercase;
+	text-decoration: none; 
+}
+
+.main-content-continue{
+	font-size: 14px; 
+	line-height: 18px;
+}
+
+.price-nerds{
+	font-size: 18px; 
+	line-height: 8,56px;
+	text-transform: uppercase;
 	text-decoration: none;
- }
+}
 
- .footer4{
- 	font-size: 36px;
-	line-height: 36px;
- }
-
-  .footer5{
- 	font-size: 16px;
-	line-height: 22px;
- }
+.next-page a{
+	font-size: 12px; 
+	line-height: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
